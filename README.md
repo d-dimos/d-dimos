@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-<div style="text-align:center">
-![Alt Text](https://media.giphy.com/media/DjQZeqf3HqAQBqu45D/giphy.gif)
-</div>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/DjQZeqf3HqAQBqu45D/giphy.gif" alt="animated" />
+</p>
+
 
 
 <!--
