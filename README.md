@@ -1,10 +1,5 @@
 <!--### Hi there 👋-->
 
-
-<p align="center">
-  <img src="https://media.giphy.com/media/DjQZeqf3HqAQBqu45D/giphy.gif" alt="animated" />
-</p>
-
 <p align="center">
   <img src="eye-hole.gif" alt="animated" />
 </p>
