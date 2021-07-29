@@ -8,6 +8,13 @@ hello there
 
 hello there
 
+<img src="https://media.giphy.com/media/IcZhFmufozDCij3p22/giphy.gif" align="left" width="350px" alt="animated"/>
+some text floating around the image
+
+<br clear="left"/>
+
+A "newline". This text doesn't float anymore, is left-aligned.
+
 <!--
 **d-dimos/d-dimos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
