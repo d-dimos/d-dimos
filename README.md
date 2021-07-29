@@ -1,6 +1,6 @@
 <!--### Hi there 👋-->
 
-<p align="center">
+<p align="right">
   <img src="eye_hole.gif" alt="animated" />
 </p>
 
