@@ -1,7 +1,7 @@
 <!--### Hi there 👋-->
 
 <p align="right">
-  <img src="eye_hole.gif" alt="animated" />
+  <img src="https://media.giphy.com/media/IcZhFmufozDCij3p22/giphy.gif" alt="animated" />
 </p>
 
 
