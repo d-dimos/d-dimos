@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Alt Text](https://media.giphy.com/media/DjQZeqf3HqAQBqu45D/giphy.gif)
+
 <!--
 **d-dimos/d-dimos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
