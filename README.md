@@ -1,7 +1,7 @@
 <!--### Hi there 👋-->
 
 <p align="center">
-  <img src="eye-hole.gif" alt="animated" />
+  <img src="eye_hole.gif" alt="animated" />
 </p>
 
 
