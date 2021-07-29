@@ -1,5 +1,5 @@
 # Welcome :mechanical_arm:
-<img src="https://media.giphy.com/media/IcZhFmufozDCij3p22/giphy.gif" align="right" width="350px" alt="animated"/>
+<img src="https://media.giphy.com/media/IcZhFmufozDCij3p22/giphy.gif" align="right" width="450px" alt="animated"/>
 
 This is Dimitris. Some probably useful info about me:
 
