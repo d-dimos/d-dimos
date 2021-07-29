@@ -4,8 +4,11 @@
 This is Dimitris. Some probably useful info about me:
 
 🔭 I’m currently working on my diploma thesis
+
 🌱 I’m currently studying artificial neural networks
+
 💬 Ask me about anything you think I might be able to help with
+
 📫 How to reach me: [dimitris.dimos647@gmail.com](mailto:dimitris.dimos647@gmail.com)
 
 <br clear="left"/>
