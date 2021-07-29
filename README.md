@@ -1,9 +1,17 @@
+### Welcome :mechanical_arm:
 <img src="https://media.giphy.com/media/IcZhFmufozDCij3p22/giphy.gif" align="right" width="350px" alt="animated"/>
-### Hello there
 
-some text floating around the image
+This is Dimitris. Some probably useful info about me:
+
+🔭 I’m currently working on my diploma thesis
+🌱 I’m currently studying artificial neural networks
+💬 Ask me about anything you think I might be able to help with
+📫 How to reach me: [dimitris.dimos647@gmail.com](mailto:dimitris.dimos647@gmail.com)
 
 <br clear="left"/>
+
+
+
 
 <!--A "newline". This text doesn't float anymore, is left-aligned.-->
 
