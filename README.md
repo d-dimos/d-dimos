@@ -1,10 +1,12 @@
 <!--### Hi there 👋-->
 
+hello there
+
 <p align="right">
   <img width="350" img src="https://media.giphy.com/media/IcZhFmufozDCij3p22/giphy.gif" alt="animated" />
 </p>
 
-
+hello there
 
 <!--
 **d-dimos/d-dimos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
