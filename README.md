@@ -1,4 +1,4 @@
-# Welcome :mechanical_arm:
+# Hello 👾
 <img src="https://media.giphy.com/media/IcZhFmufozDCij3p22/giphy.gif" align="right" width="370px" alt="animated"/>
 
 This is Dimitris. Some probably useful info about me:
