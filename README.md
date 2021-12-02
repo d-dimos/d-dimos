@@ -5,7 +5,7 @@ This is Dimitris. Some probably useful info about me:
 
 🔭 I’m currently working on my diploma thesis
 
-🌱 I’m currently studying Generative Adversarial Networks
+🌱 I’m currently studying Generative Approaches to address Inverse Problems 
 
 💬 Ask me about anything you think I might be able to help with
 
