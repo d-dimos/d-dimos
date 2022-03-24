@@ -2,9 +2,9 @@
 
 <!-- <img src="https://media.giphy.com/media/IcZhFmufozDCij3p22/giphy.gif" align="right" width="320px" alt="animated"/> -->
 
-<p align="right">
-  <img src="net.gif" alt="animated" />
-</p>
+
+<img src="net.gif" align="right" alt="animated" />
+
 
 
 This is Dimitris. Some probably useful info about me:
