@@ -2,7 +2,7 @@
 
 <!-- <img src="https://media.giphy.com/media/IcZhFmufozDCij3p22/giphy.gif" align="right" width="320px" alt="animated"/> -->
 
-<img src="https://gfycat.com/unimportantfamiliarfowl" align="right" width="320px"/>
+![Alt](AD9T.gif)
 
 
 This is Dimitris. Some probably useful info about me:
