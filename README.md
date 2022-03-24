@@ -1,4 +1,4 @@
-<h2 align="center"> Hello 👾 </h2>
+<h3 align="center"> Hello 👾 </h3>
 
 <!-- <img src="https://media.giphy.com/media/IcZhFmufozDCij3p22/giphy.gif" align="right" width="320px" alt="animated"/> -->
 
