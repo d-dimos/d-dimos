@@ -2,9 +2,8 @@
 
 <!-- <img src="https://media.giphy.com/media/IcZhFmufozDCij3p22/giphy.gif" align="right" width="320px" alt="animated"/> -->
 
-<img src="https://gifer.com/embed/AD9T" align="right" width="320px"/>
+<img src="https://gfycat.com/unimportantfamiliarfowl" align="right" width="320px"/>
 
-<div style="padding-top:56.296%;position:relative;"><iframe src="https://gifer.com/embed/AD9T" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
 
 This is Dimitris. Some probably useful info about me:
 
