@@ -1,13 +1,9 @@
 # Hello 👾
-<img src="https://media.giphy.com/media/IcZhFmufozDCij3p22/giphy.gif" align="right" width="280px" alt="animated"/>
+<img src="https://media.giphy.com/media/IcZhFmufozDCij3p22/giphy.gif" align="right" width="320px" alt="animated"/>
 
 This is Dimitris. Some probably useful info about me:
 
-🔭 I’m currently working on my diploma thesis
-
-<!--🌱 I’m currently studying Score-Ba to address Inverse Problems -->
-
-💬 Ask me about anything you think I might be able to help with
+🔭 Currently working on my diploma thesis
 
 📫 How to reach me: [dimitris.dimos647@gmail.com](mailto:dimitris.dimos647@gmail.com)
 
