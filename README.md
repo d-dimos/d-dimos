@@ -5,11 +5,6 @@
 
 <img src="one.gif" align="right" alt="animated" />
 
-
-This is Dimitris. 
-
-📫 How to reach me: [dimitris.dimos647@gmail.com](mailto:dimitris.dimos647@gmail.com)
-
 <br clear="left"/>
 
 
