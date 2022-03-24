@@ -1,8 +1,6 @@
 # Hello 👾
 
-<!-- <img src="https://gfycat.com/obviouslimpargentinehornedfrog" align="right" width="320px" alt="animated"/> -->
-
-![](AD9T.gif)
+<!-- <img src="https://media.giphy.com/media/IcZhFmufozDCij3p22/giphy.gif" align="right" width="320px" alt="animated"/> -->
 
 <p align="center">
   <img src="AD9T.gif" alt="animated" />
