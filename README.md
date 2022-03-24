@@ -6,10 +6,7 @@
 <img src="net.gif" align="right" height="230px" width="460x" alt="animated" />
 
 
-
-This is Dimitris. Some probably useful info about me:
-
-🔭 Currently working on my diploma thesis
+This is Dimitris. 
 
 📫 How to reach me: [dimitris.dimos647@gmail.com](mailto:dimitris.dimos647@gmail.com)
 
