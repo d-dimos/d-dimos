@@ -1,6 +1,6 @@
 <!-- <img src="https://media.giphy.com/media/IcZhFmufozDCij3p22/giphy.gif" align="right" width="320px" alt="animated"/> -->
 
-<!-- <h1 align="center"> Hello 👾 </h1> -->
+<h1 align="center"> Hello, I am Dimitris 👾 </h1>
 
 <img src="one.gif" align="right" alt="animated" />
 
