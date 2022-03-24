@@ -1,5 +1,9 @@
 # Hello 👾
+<!--
 <img src="https://media.giphy.com/media/IcZhFmufozDCij3p22/giphy.gif" align="right" width="320px" alt="animated"/>
+-->
+
+<img src="https://i.gifer.com/AD9T.gif" align="right" width="320px" alt="animated"/>
 
 This is Dimitris. Some probably useful info about me:
 
