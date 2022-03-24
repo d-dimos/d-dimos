@@ -3,7 +3,7 @@
 <!-- <img src="https://media.giphy.com/media/IcZhFmufozDCij3p22/giphy.gif" align="right" width="320px" alt="animated"/> -->
 
 
-<img src="net.gif" align="right" height="230px" width="460x" alt="animated" />
+<img src="one.gif" align="right" alt="animated" />
 
 
 This is Dimitris. 
