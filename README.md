@@ -2,7 +2,11 @@
 
 <!-- <img src="https://gfycat.com/obviouslimpargentinehornedfrog" align="right" width="320px" alt="animated"/> -->
 
-![Alt](AD9T.gif)
+![](AD9T.gif)
+
+<p align="center">
+  <img src="AD9T.gif" alt="animated" />
+</p>
 
 
 This is Dimitris. Some probably useful info about me:
